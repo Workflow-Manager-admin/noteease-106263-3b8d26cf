@@ -1,0 +1,18 @@
+Creating Kotlin Android project with:
+Project Name: notes_frontend
+Package Name: com.example.notesfrontend
+Min SDK: 24
+Target SDK: 34
+Gradle Version: 8.12
+Kotlin Version: 1.9.22
+
+Downloading gradle-wrapper.jar...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 45457  100 45457    0     0   449k      0 --:--:-- --:--:-- --:--:--  452k
+Gradle wrapper jar installed successfully.
+Project created successfully! You can now run the project with:
+./gradlew assembleDebug
+To install to a connected device, run:
+./gradlew installDebug
+Kotlin project pro-processing complete
